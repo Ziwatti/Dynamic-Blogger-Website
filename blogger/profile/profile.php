@@ -224,14 +224,14 @@
         <div class="section">
             <!-- Form for post Creation -->
             <div class="center">
-                <h1 class="create" >Create Post</h2>
+                <h1 class="create" >Create a new Post</h2>
                 <form action="profile.php" method ='POST'>
                     <div class="txt_field">
-                        <input type="text" required id='blogTitle' name='blogTitle'>
+                        <input type="text"  id='blogTitle' name='blogTitle' required>
                         <label>Title</label>
                     </div>
                     <div class="txt_field">
-                        <input type="text" required  id="blogSubtitle" name="blogSubtitle">
+                        <input type="text"   id="blogSubtitle" name="blogSubtitle" required>
                         <span></span>
                         <label for="blogSubtitle">Blog Subtitle</label>
                     </div>
