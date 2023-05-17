@@ -59,9 +59,9 @@
 								  <h5>Shuja ur Rahman</h5>
 								  <p>Front-end Developer</p>
 								  <div class="social-links">
-									<a href="https://github.com/shujaurrahman"><i class="fab fa-github"></i></a>
-									<a href="https://www.linkedin.com/in/shuja-u-934230110/"><i class="fab fa-linkedin"></i></a>
-									<a href="https://shujaurrahman.github.io/shuja-on-web/"><i class="fas fa-globe"></i></a>
+									<a href="https://github.com/Alila-kevin"><i class="fab fa-github"></i></a>
+									<a href="https://www.linkedin.com/in/alila-kevin-490696212/"><i class="fab fa-linkedin"></i></a>
+									<a href="https://github.com/Alila-kevin><i class="fas fa-globe"></i></a>
 								</div>
 							 </div>
 						 </div>
