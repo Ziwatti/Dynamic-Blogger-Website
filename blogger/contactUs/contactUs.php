@@ -35,20 +35,20 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
         <div class="address details">
           <i class="fas fa-map-marker-alt"></i>
           <div class="topic">Address</div>
-          <div class="text-one">Aligarh,202002</div>
-          <div class="text-two">Purani chungi</div>
+          <div class="text-one">kisumu,40100</div>
+          <div class="text-two">kisumu city</div>
         </div>
         <div class="phone details">
           <i class="fas fa-phone-alt"></i>
           <div class="topic">Phone</div>
-          <div class="text-one">+917579966178</div>
-          <div class="text-two">+918859522818</div>
+          <div class="text-one">+254718252817</div>
+          <div class="text-two">+254718252817</div>
         </div>
         <div class="email details">
           <i class="fas fa-envelope"></i>
           <div class="topic">Email</div>
-          <div class="text-one">shujaurrehman210@gmail.com</div>
-          <div class="text-two">mohdfaheemahmad5@gmail.com</div>
+          <div class="text-one">alilakevin40@gmail.com</div>
+          <div class="text-two">alilakevin4@gmail.com</div>
         </div>
       </div>
       <div class="right-side">
