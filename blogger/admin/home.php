@@ -41,7 +41,7 @@ $logInForm = "
                                 <label for='password' class='form-label'>Password</label>
                                 <input type='password' class='form-control' id='password' name='password'>
                             </div>
-                            <button type='submit' class='btn btn-primary'>Log In</button>
+                            <button type='submit' class='btn btn-primary'>LogIn</button>
 
                         </form>
                 </div>
